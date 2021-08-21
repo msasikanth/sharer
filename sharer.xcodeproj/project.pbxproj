@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		22C8A8FC26D11EB100C04E03 /* sharerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22C8A8FB26D11EB100C04E03 /* sharerApp.swift */; };
+		22C8A8FC26D11EB100C04E03 /* SharerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22C8A8FB26D11EB100C04E03 /* SharerApp.swift */; };
 		22C8A8FE26D11EB100C04E03 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22C8A8FD26D11EB100C04E03 /* ContentView.swift */; };
 		22C8A90026D11EB300C04E03 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22C8A8FF26D11EB300C04E03 /* Assets.xcassets */; };
 		22C8A90326D11EB300C04E03 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22C8A90226D11EB300C04E03 /* Preview Assets.xcassets */; };
@@ -36,7 +36,7 @@
 
 /* Begin PBXFileReference section */
 		22C8A8F826D11EB100C04E03 /* sharer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sharer.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		22C8A8FB26D11EB100C04E03 /* sharerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sharerApp.swift; sourceTree = "<group>"; };
+		22C8A8FB26D11EB100C04E03 /* SharerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharerApp.swift; sourceTree = "<group>"; };
 		22C8A8FD26D11EB100C04E03 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		22C8A8FF26D11EB300C04E03 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		22C8A90226D11EB300C04E03 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -99,7 +99,7 @@
 		22C8A8FA26D11EB100C04E03 /* sharer */ = {
 			isa = PBXGroup;
 			children = (
-				22C8A8FB26D11EB100C04E03 /* sharerApp.swift */,
+				22C8A8FB26D11EB100C04E03 /* SharerApp.swift */,
 				22C8A8FD26D11EB100C04E03 /* ContentView.swift */,
 				22C8A8FF26D11EB300C04E03 /* Assets.xcassets */,
 				22C8A90426D11EB300C04E03 /* Persistence.swift */,
@@ -268,7 +268,7 @@
 				22C8A90826D11EB300C04E03 /* sharer.xcdatamodeld in Sources */,
 				22C8A90526D11EB300C04E03 /* Persistence.swift in Sources */,
 				22C8A8FE26D11EB100C04E03 /* ContentView.swift in Sources */,
-				22C8A8FC26D11EB100C04E03 /* sharerApp.swift in Sources */,
+				22C8A8FC26D11EB100C04E03 /* SharerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
